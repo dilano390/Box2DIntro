@@ -9,7 +9,7 @@ A 2d physics engine designed for game development: It handles “all” calculat
 Box2d handles/simulates “all” physics for you. You input your objects in the world. Set the parameters(ex gravity) define the amount of time to simulate and it calculates what will happen.
 
 ![Image by Julie Bang © Investopedia 2019
-More about black boxes: [https://www.investopedia.com/terms/b/blackbox.asp](https://www.investopedia.com/terms/b/blackbox.asp)](Box2d%204c0e3f02938c406eaa29a391c2d6e309/Untitled.png)
+More about black boxes: [https://www.investopedia.com/terms/b/blackbox.asp](https://www.investopedia.com/terms/b/blackbox.asp)](assets/Untitled.png)
 
 Image by Julie Bang © Investopedia 2019
 More about black boxes: [https://www.investopedia.com/terms/b/blackbox.asp](https://www.investopedia.com/terms/b/blackbox.asp)
@@ -38,7 +38,7 @@ Unless you run into problems Box2D reliefs you from the need to understand the p
 
 </aside>
 
-![source: [https://www.vedantu.com/evs/uses-of-pendulum](https://www.vedantu.com/evs/uses-of-pendulum)](Box2d%204c0e3f02938c406eaa29a391c2d6e309/Untitled%201.png)
+![source: [https://www.vedantu.com/evs/uses-of-pendulum](https://www.vedantu.com/evs/uses-of-pendulum)](assets//Untitled%201.png)
 
 source: [https://www.vedantu.com/evs/uses-of-pendulum](https://www.vedantu.com/evs/uses-of-pendulum)
 
